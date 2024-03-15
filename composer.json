@@ -1,0 +1,6 @@
+{
+    "require": {
+        "kazyumaru/papersize": "^1.0",
+        "tecnickcom/tcpdf": "^6.6"
+    }
+}
